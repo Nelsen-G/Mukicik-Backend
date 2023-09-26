@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Masterpage.master.cs" Inherits="Mukicik2.Masterpage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:Button ID="btnHome" runat="server" Text="Home" />
+        <asp:Button ID="btnProduct" runat="server" Text="Product" />
+        <%if (Session["user"] != null)
+            { %>
+        <div>
+            <asp:Button ID="btnViewProduct" runat="server" Text="View Product" OnClick="btnViewProduct_Click"/>
+            <asp:Button ID="btnInsertProduct" runat="server" Text="Insert Product" OnClick="btnInsertProduct_Click"/> 
+            <asp:Button ID="btnUpdateDeleteProduct" runat="server" Text="Update/Delete Product" OnClick="btnUpdateDeleteProduct_Click" />
+            <asp:Label ID="lblUserCount" runat="server" Text=""></asp:Label>
+            <asp:Button ID="btnLogout" runat="server" Text="Logout" OnClick="btnLogout_Click" />
+        </div>
+        <%}
+            else
+            { %>
+        <div>
+            <asp:Button ID="btnRegister" runat="server" Text="Register" OnClick="btnRegister_Click"/>
+            <asp:Button ID="btnLogin" runat="server" Text="Login" OnClick="btnLogin_Click"/>
+        </div>
+        <%} %>
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div>
+            <hr />
+            <br />
+            <p>2016 - Mukicik</p>
+        </div>
+    </form>
+</body>
+</html>

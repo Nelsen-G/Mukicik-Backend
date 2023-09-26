@@ -1,0 +1,189 @@
+D:\PSD\Mukicik2\Mukicik2\bin\Mukicik2.dll.config
+D:\PSD\Mukicik2\Mukicik2\bin\Mukicik2.dll
+D:\PSD\Mukicik2\Mukicik2\bin\Mukicik2.pdb
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\csc.exe
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\csc.exe.config
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\csc.rsp
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\csi.exe
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\csi.exe.config
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\csi.rsp
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.AppContext.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Collections.Immutable.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Console.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Globalization.Calendars.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.IO.Compression.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.IO.FileSystem.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Net.Http.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Net.Sockets.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Reflection.Metadata.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.ValueTuple.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Xml.XPath.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\vbc.exe
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\vbc.exe.config
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\vbc.rsp
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\VBCSCompiler.exe
+D:\PSD\Mukicik2\Mukicik2\bin\roslyn\VBCSCompiler.exe.config
+D:\PSD\Mukicik2\Mukicik2\bin\EntityFramework.dll
+D:\PSD\Mukicik2\Mukicik2\bin\EntityFramework.SqlServer.dll
+D:\PSD\Mukicik2\Mukicik2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PSD\Mukicik2\Mukicik2\bin\EntityFramework.xml
+D:\PSD\Mukicik2\Mukicik2\bin\EntityFramework.SqlServer.xml
+D:\PSD\Mukicik2\Mukicik2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PSD\Mukicik2\Mukicik2\obj\Debug\Mukicik2.csproj.CoreCompileInputs.cache
+D:\PSD\Mukicik2\Mukicik2\obj\Debug\Mukicik2.csproj.CopyComplete
+D:\PSD\Mukicik2\Mukicik2\obj\Debug\Mukicik2.dll
+D:\PSD\Mukicik2\Mukicik2\obj\Debug\Mukicik2.pdb
+D:\PSD\Mukicik2\Mukicik2\obj\Debug\Mukicik2.csproj.AssemblyReference.cache
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\Mukicik2.dll.config
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\Mukicik2.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\Mukicik2.pdb
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\csc.exe
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\csc.exe.config
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\csc.rsp
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\csi.exe
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\csi.exe.config
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\csi.rsp
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.AppContext.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Console.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.IO.Compression.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Net.Http.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.ValueTuple.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\vbc.exe
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\vbc.exe.config
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\vbc.rsp
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\EntityFramework.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\EntityFramework.SqlServer.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\EntityFramework.xml
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\EntityFramework.SqlServer.xml
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\obj\Debug\Mukicik2.csproj.AssemblyReference.cache
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\obj\Debug\Mukicik2.csproj.CoreCompileInputs.cache
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\obj\Debug\Mukicik2.csproj.CopyComplete
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\obj\Debug\Mukicik2.dll
+D:\Documents\Mukicik2\Mukicik2\Mukicik2\obj\Debug\Mukicik2.pdb
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\Mukicik2.dll.config
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\Mukicik2.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\Mukicik2.pdb
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\csc.exe
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\csc.exe.config
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\csc.rsp
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\csi.exe
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\csi.exe.config
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\csi.rsp
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.AppContext.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Collections.Immutable.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Console.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Globalization.Calendars.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.IO.Compression.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.IO.FileSystem.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Net.Http.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Net.Sockets.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.ValueTuple.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Xml.XPath.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\vbc.exe
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\vbc.exe.config
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\vbc.rsp
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\VBCSCompiler.exe
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\roslyn\VBCSCompiler.exe.config
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\EntityFramework.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\EntityFramework.SqlServer.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\EntityFramework.xml
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\EntityFramework.SqlServer.xml
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\obj\Debug\Mukicik2.csproj.AssemblyReference.cache
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\obj\Debug\Mukicik2.csproj.CoreCompileInputs.cache
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\obj\Debug\Mukicik2.csproj.CopyComplete
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\obj\Debug\Mukicik2.dll
+E:\Kuliah BINUS\Semester 4\Mukicik2\Mukicik2\Mukicik2\obj\Debug\Mukicik2.pdb
